@@ -2,7 +2,7 @@
 
 **AI-Powered Personal Investment Platform | Target: 2% Weekly Returns**
 
-[https://](https://kiraakai-production.up.railway.app/)
+[Live Demo Link](https://kiraakai-production.up.railway.app/)
 
 ---
 
